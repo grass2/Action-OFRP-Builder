@@ -21,11 +21,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/grass2/twrp_turbo3_pre'
+        default: 'https://github.com/grass2/twrp_turbo3'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'main'
+        default: 'sm8635'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
